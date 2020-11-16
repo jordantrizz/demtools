@@ -4,3 +4,6 @@
 * https://www.archbee.io/?via=rity
 * https://papyrs.com/
 * https://slab.com/
+
+# Free
+* https://github.com/logseq/logseq
