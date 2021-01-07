@@ -1,0 +1,2 @@
+# SaaS
+*https://backup.ninja/
